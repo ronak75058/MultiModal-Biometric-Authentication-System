@@ -148,20 +148,13 @@ Image Processing
 Facial Recognition
 Python Project Development
 Real-time Authentication Systems
-Screenshots
-
-Add screenshots of:
-
-Registration page
-Face detection
-Authentication success/failure
-Webcam interface
-Conclusion
 
 The Multi-Modal Biometric Authentication System demonstrates how biometric technologies can be used to build secure and intelligent authentication solutions. By integrating computer vision and machine learning techniques, the project provides a practical example of modern identity verification systems used in real-world security applications.
 
 Author
+
 Ronak
+
 License
 
 This project is developed for educational and learning purposes.
